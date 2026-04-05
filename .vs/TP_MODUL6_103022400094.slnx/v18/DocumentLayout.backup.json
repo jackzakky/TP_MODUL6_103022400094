@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\semester 4\\KPL\\TP_MODUL6_103022400094\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F61CFB1-84F0-48F9-8499-B1A93B7962D2}|TP_MODUL6_103022400094\\TP_MODUL6_103022400094.csproj|d:\\semester 4\\kpl\\tp_modul6_103022400094\\tp_modul6_103022400094\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F61CFB1-84F0-48F9-8499-B1A93B7962D2}|TP_MODUL6_103022400094\\TP_MODUL6_103022400094.csproj|solutionrelative:tp_modul6_103022400094\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED490E27-493D-0C0E-92FB-691F8AB7B430}|TP_MODUL6_103022400094\\TP_MODUL6_103022400094.csproj|d:\\semester 4\\kpl\\tp_modul6_103022400094\\tp_modul6_103022400094\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED490E27-493D-0C0E-92FB-691F8AB7B430}|TP_MODUL6_103022400094\\TP_MODUL6_103022400094.csproj|solutionrelative:tp_modul6_103022400094\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED490E27-493D-0C0E-92FB-691F8AB7B430}|TP_MODUL6_103022400094\\TP_MODUL6_103022400094.csproj|d:\\semester 4\\kpl\\tp_modul6_103022400094\\tp_modul6_103022400094\\sayamusictrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED490E27-493D-0C0E-92FB-691F8AB7B430}|TP_MODUL6_103022400094\\TP_MODUL6_103022400094.csproj|solutionrelative:tp_modul6_103022400094\\sayamusictrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayaMusicTrack.cs",
+              "DocumentMoniker": "D:\\semester 4\\KPL\\TP_MODUL6_103022400094\\TP_MODUL6_103022400094\\SayaMusicTrack.cs",
+              "RelativeDocumentMoniker": "TP_MODUL6_103022400094\\SayaMusicTrack.cs",
+              "ToolTip": "D:\\semester 4\\KPL\\TP_MODUL6_103022400094\\TP_MODUL6_103022400094\\SayaMusicTrack.cs",
+              "RelativeToolTip": "TP_MODUL6_103022400094\\SayaMusicTrack.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T20:30:53.708Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "TP_MODUL6_103022400094\\Program.cs",
               "ToolTip": "D:\\semester 4\\KPL\\TP_MODUL6_103022400094\\TP_MODUL6_103022400094\\Program.cs",
               "RelativeToolTip": "TP_MODUL6_103022400094\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T20:14:31.35Z",
               "EditorCaption": ""
